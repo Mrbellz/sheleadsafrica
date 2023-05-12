@@ -1,0 +1,30 @@
+body {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.divOne {
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    display: flex;
+}
+.logo{
+    width: auto;
+    height: 20px;
+}
+.navbarlinks {
+    display: flex;
+    list-style: none;
+   
+}
+li {
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+    
+}
+.container {
+    margin-top: 20px;
+}
+
